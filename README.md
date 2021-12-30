@@ -1,0 +1,2 @@
+# Speex_AEC_matlab
+speex算法的aec模块，用matlab代码实现并附带测试音频
